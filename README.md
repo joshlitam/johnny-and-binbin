@@ -1,1 +1,1 @@
-# johnny-and-binbin
+# landing-page
